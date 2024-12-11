@@ -1,3 +1,13 @@
+Defn:
+An AI-powered platform designed to help students bridge the gap between their current skills and career aspirations. The platform evaluates each student's existing skills, identifies areas for improvement, and recommends personalized learning paths. By aligning suggestions with individual goals and career trends, the platform offers tailored course recommendations, actionable feedback, and targeted skill-building activities. Additionally, it includes periodic assessments to track progress, ensuring that students receive the right guidance to improve their employability and achieve their career objectives.
+
+example scenario:
+ Vivek, a student from a small town in West Bengal, has completed his basic education but feels unprepared for the rapidly 
+changing job market. He is aware that he needs to acquire new skills to become employable but is unsure of which skills to focus
+on or how to begin. With limited access to career guidance, Vivek struggles to identify the right courses that align with his
+aspirations and the skills currently in demand.(with the help of SkillBridge he can concentarte on the main course path which is related to market trends,as the platform should integrate for realtime trends.)
+
+installation:
 Run this command to create a new project:
 
 ```bash
